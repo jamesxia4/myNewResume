@@ -5,4 +5,3 @@ Originating from @2015 Joyee Cheung 's online resume, this project restructures 
 #2016.03.07
 1. Add i18n terms: education, new job types.
 2. Refactor jade template
-3. 
