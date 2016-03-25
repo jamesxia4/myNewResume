@@ -4,8 +4,6 @@ Read resume data from a JSON file and generate a static web page. GitHub Pages s
 
 Written with Gulp, Less, and Jade.
 
-Forked from @joyeecheung/resume. Adapted for data scientists by Yuanfang Xia.
-
 ## Build
 
 1. Run `npm install` to install the dependencies.
